@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "988033889457",
+    "project_id": "sanjose-4c9cd",
+    "storage_bucket": "sanjose-4c9cd.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:988033889457:android:6e3c28766f70c3c429de90",
+        "android_client_info": {
+          "package_name": "com.sena.adsosanjose"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwC2tmVCcyFiXSaiwyyBS3d-yJlyKPfIU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
